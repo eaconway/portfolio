@@ -522,7 +522,7 @@ header.masthead .intro-btn {
   width: 250px;
   height: 75px;
   color: #4a6899;
-  border-radius: 10%;
+  border-radius: 25px;
   border: 2px solid #4a6899;
   background: white;
   display: flex;
