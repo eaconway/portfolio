@@ -1,6 +1,6 @@
 # My Portofolio Site
 
-Hi! Thanks for coming to my GitHub Repo. Feel free to take a look around, however, to get in contact with me or just learn more about my experiences as a dev, please fisite my website: [ejconway.com](http://ejconway.com)
+Het there! Thanks for coming to my GitHub Repo. Feel free to take a look around, however, to get in contact with me or just learn more about my experiences as a dev, please fisite my website: [ejconway.com](http://ejconway.com)
 
 ## About
 
